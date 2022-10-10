@@ -32,4 +32,8 @@ Things I want to do are:
 2. Eat
 3. Sleep
 
+But I still have to
+- [x] complete LAB 1
+- [ ] complete LAB 2
+
 Bye for now and thanks for reading.
