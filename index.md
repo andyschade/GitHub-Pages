@@ -17,7 +17,7 @@ git commit
 ## In my free time I do a lot of looking at this; [Surfline](https://www.surfline.com/)
 # so I can do some ![surfing](https://mediap.flypgs.com/awh/1356/773//files/Ekstrem_Sporlar/surf-nedir.jpg)
 
-You can learn more about me [here](GitHub-Pages/../README.md)
+You can see my favorite programming language [here](GitHub-Pages/../README.md)
 
 I would like to thank my:
 - TA
