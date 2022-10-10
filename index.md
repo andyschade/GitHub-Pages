@@ -18,8 +18,6 @@ git commit
 
 You can learn more about me [here](GitHub-Pages/../README.md)
 
-## [ANDY SCHADE'S PAGE](#ANDY SCHADE'S PAGE)
-
 I would like to thank my:
 - TA
 - myself
@@ -35,5 +33,3 @@ Things I want to do are:
 3. Sleep
 
 Bye for now and thanks for reading.
-
-# ANDY SCHADE
