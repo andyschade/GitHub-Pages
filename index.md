@@ -20,20 +20,22 @@ git commit
 You can see my favorite programming language [here](GitHub-Pages/../README.md)
 
 I would like to thank my:
-- TA
-- myself
-- I
-- teacher
+- my TA
+- Me
+- Myself
+- and I
+- my Teacher
   
 for helping making this page
 
-Things I want to do are:
+Things I want to do right now are:
 
 1. Surf
 2. Eat
 3. Sleep
 
-But I still have to
+But I still have to:
+
 - [x] complete LAB 1
 - [ ] complete LAB 2
 
