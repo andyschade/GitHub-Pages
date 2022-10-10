@@ -18,7 +18,7 @@ git commit
 
 You can learn more about me [here](GitHub-Pages/../README.md)
 
-## [ANDY SCHADE'S PAGE](#Get back to the top here)
+## [ANDY SCHADE'S PAGE](#ANDY SCHADE'S PAGE)
 
 I would like to thank my:
 - TA
