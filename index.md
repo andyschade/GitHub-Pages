@@ -19,7 +19,7 @@ git commit
 
 You can see my favorite programming language [here](GitHub-Pages/../README.md)
 
-I would like to thank my:
+I would like to thank:
 - my TA
 - Me
 - Myself
